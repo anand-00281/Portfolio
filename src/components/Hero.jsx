@@ -6,7 +6,7 @@ import Portfolio from './Portfolio'
 const Hero = () => {
   return (
     <div className='grid md:grid-cols-2 place-items-center max-w-[1250px] mx-auto mb-8 md:mb-32 mt-14'>
-        <div className='max-w-[800px]'>
+        <div className='max-w-[800px] pl-7'>
             <p className='text-gray-200 md:text-6xl tracking-tight'>
                 HEY,I AM <br />
                 <span className=''>ANAND SANODIYA, </span> <br /> 
